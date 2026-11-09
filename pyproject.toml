@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dforktree"
+version = "0.1.0"
+description = "Training-free fork-aware re-anchoring for block-parallel speculative decoding"
+requires-python = ">=3.12,<3.13"
+license = "Apache-2.0"
+dependencies = ["sglang==0.5.22", "numpy", "huggingface-hub"]
+
+[project.entry-points."sglang.srt.plugins"]
+dforktree = "dforktree.fc1_plugin:register"
+
+[tool.setuptools.packages.find]
+include = ["dforktree*"]

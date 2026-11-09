@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+build/
+dist/
+data/
+models/
+*.npz
+*.safetensors
+*.pt
+*.log
+example_results.json
+.env
+.env.*
