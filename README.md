@@ -8,11 +8,8 @@ DForkTree combines DFlash draft probabilities with n-gram PMI from approximately
 
 Defaults: B=32, block size 24, M=16, λ_a=0.3, λ_p=0.6, PMI clipping [-10, 10]. The implementation uses `W=max(B−1, M)` (W=31 by default), without forcing the top-1 chain into the tree.
 
-Environment: Linux, Python 3.12, CUDA 13, SGLang 0.5.22; reference GPU: RTX 5090.
+Environment: Linux, Python 3.12, CUDA 13, SGLang 0.5.22; reference GPU: RTX 6000PRO.
 
 N-gram count table: [download from Releases](https://github.com/Perseus037/DForkTree/releases/download/v0.1.0/ngram_counts.npz).
 
-Model weights, generated replies, experiment scripts and baselines are not included.
-
 Apache-2.0. See `NOTICE` for upstream attribution.
-
