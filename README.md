@@ -21,11 +21,6 @@
 
 ---
 
-## 🚀 News
-
-- **November 9, 2026** — Our [paper](https://arxiv.org/abs/2611.12356) is available on arXiv.
-- The core implementation and [shared n-gram count table](https://github.com/Perseus037/DForkTree/releases/tag/v0.1.0) are available in this repository.
-
 ## 💡 Overview
 
 A draft tree gains over a chain through branches that leave the drafter’s preferred continuation. Yet the original per-position probabilities become less reliable after a fork.
