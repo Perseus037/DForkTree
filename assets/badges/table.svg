@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="203" height="30" viewBox="0 0 203 30" role="img" aria-label="DATA N-GRAM TABLE">
+<title>DATA N-GRAM TABLE</title><defs><clipPath id="r"><rect width="203" height="30" rx="5"/></clipPath></defs>
+<g clip-path="url(#r)"><path fill="#273244" d="M0 0h73v30H0z"/><path fill="#00897b" d="M73 0h130v30H73z"/></g>
+<g transform="translate(7 5) scale(.82)" fill="none" stroke="white" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12m-5-5 5 5 5-5M5 17v4h14v-4"/></g>
+<g fill="white" font-family="Verdana,DejaVu Sans,sans-serif" font-size="10" font-weight="600"><text x="32" y="19">DATA</text><text x="138.0" y="19" text-anchor="middle">N-GRAM TABLE</text></g></svg>

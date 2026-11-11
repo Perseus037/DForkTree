@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="136" height="30" viewBox="0 0 136 30" role="img" aria-label="PAPER PDF">
+<title>PAPER PDF</title><defs><clipPath id="r"><rect width="136" height="30" rx="5"/></clipPath></defs>
+<g clip-path="url(#r)"><path fill="#273244" d="M0 0h82v30H0z"/><path fill="#5263c7" d="M82 0h54v30H82z"/></g>
+<g transform="translate(7 5) scale(.82)" fill="none" stroke="white" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3h8l4 4v14H6zM14 3v5h4M9 12h6M9 16h6"/></g>
+<g fill="white" font-family="Verdana,DejaVu Sans,sans-serif" font-size="10" font-weight="600"><text x="32" y="19">PAPER</text><text x="109.0" y="19" text-anchor="middle">PDF</text></g></svg>
